@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Restaurant</string>
+    <string name="titulo_resumen">Resumen de Cuenta</string>
+    <string name="pastel_de_choclo">Pastel de Choclo</string>
+    <string name="nombre_cazuela">Cazuela</string>
+    <string name="subtotal_general">Comida:</string>
+    <string name="propina">Propina:</string>
+    <string name="total_general">Total: </string>
+    <string name="cantidad1">cantidad: </string>
+    <string name="cantidad2">cantidad: </string>
+    <string name="precio1">precio: </string>
+    <string name="precio2">precio: </string>
+</resources>
